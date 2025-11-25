@@ -1,6 +1,6 @@
 # Bibata Original Gruvbox Yellow
 
-A mouse cursor theme inspired by [Bibata](https://github.com/ful1e5/Bibata_Cursor) Original (sharp edges) and [Gruvbox](https://github.com/morhetz/gruvbox) Dark theme.
+[Bibata](https://github.com/ful1e5/Bibata_Cursor) Original (sharp edges) cursor with [Gruvbox](https://github.com/morhetz/gruvbox) Dark colors.
 
 - Cursor theme: Bibata Original (normal)
 - Color scheme: Gruvbox Dark
