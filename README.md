@@ -9,7 +9,6 @@ A mouse cursor theme inspired by [Bibata](https://github.com/ful1e5/Bibata_Curso
 
 XCursor sizes: `14`, `20`, `22`, `24`, `28`, `32`, `40`, `48`, `56`, `64`, `72`, `80`, `88`, `96`
 
-- Base color: #fabd2f (yellow)
+- Base color: #d79921 (yellow)
 - Outline color: #282828 (black)
-- Watch background color: #fabd2f (yellow)
-
+- Watch background color: #d79921 (yellow)
